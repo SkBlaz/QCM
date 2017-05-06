@@ -1,6 +1,23 @@
 #openQCM Software Java#
 
-This is my, tweaked version of the openQCM with additional functionality. I take no responsibility for correctness of this software, as this is a hobby project.
+![openQCM-design](https://dl.dropboxusercontent.com/u/51833595/openQCM-splashscreen.png)
+
+[openQCM](http://openqcm.com/) is the unique opensource quartz crystal microbalance
+
+##Intro##
+This is the latest release of openQCM Java software version 1.0 stable version. The repository is designed  for the developers and contributors of the open source project.
+The openQCM software is developed using Java 8 programming language and NetBeans development environment (IDE). You need to configure your Java Runtime Environment JRE to run the project correctly.
+
+openQCM sw uses the RXTX Java library which provides serial communication for the Java Development Kit JDK. Refer to [Arduino Playground](http://playground.arduino.cc/Interfacing/Java) for more info about Arduino and Java interfacing. 
+
+The communication protocol of openQCM sw is based on [Ardulink](http://www.ardulink.org/), the open source Java solution for the control and coordination of Arduino boards. 
+
+The users of openQCM software can directly download the executable program on the openQCM website. 
+
+## openQCM v0.2 ##
+![openQCM-GUI](https://dl.dropboxusercontent.com/u/51833595/openQCM_main_GUI_signal.PNG)
+
+openQCM Java software v0.2 application user interface GUI.
 
 The **openQCM GUI** is designed to accomplish the following tasks:
 
